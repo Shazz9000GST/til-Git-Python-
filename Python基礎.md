@@ -10,3 +10,8 @@
 - 数値(浮動小数点数型):float 計算に使う
 - 文字列型:str 文字を扱うときに使う
 - ブール型:bool True, Falseの二択のときに使う
+
+### 条件式
+- if文に関してはRubyとほぼ同じ
+- elseの書き方に関しても同様
+- else ifの書き方だけPythonではelifと表記する(Rubyはelsif)
